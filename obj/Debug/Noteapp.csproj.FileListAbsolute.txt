@@ -1,0 +1,40 @@
+C:\Users\41764\Documents\Informatik\Lernatelier\C# Gruppenarbeit 2\Noteapp\bin\Debug\Noteapp.exe.config
+C:\Users\41764\Documents\Informatik\Lernatelier\C# Gruppenarbeit 2\Noteapp\bin\Debug\Noteapp.exe
+C:\Users\41764\Documents\Informatik\Lernatelier\C# Gruppenarbeit 2\Noteapp\bin\Debug\Noteapp.pdb
+C:\Users\41764\Documents\Informatik\Lernatelier\C# Gruppenarbeit 2\Noteapp\obj\Debug\Noteapp.csprojAssemblyReference.cache
+C:\Users\41764\Documents\Informatik\Lernatelier\C# Gruppenarbeit 2\Noteapp\obj\Debug\Noteapp.Hauptfenster.resources
+C:\Users\41764\Documents\Informatik\Lernatelier\C# Gruppenarbeit 2\Noteapp\obj\Debug\Noteapp.Properties.Resources.resources
+C:\Users\41764\Documents\Informatik\Lernatelier\C# Gruppenarbeit 2\Noteapp\obj\Debug\Noteapp.csproj.GenerateResource.cache
+C:\Users\41764\Documents\Informatik\Lernatelier\C# Gruppenarbeit 2\Noteapp\obj\Debug\Noteapp.csproj.CoreCompileInputs.cache
+C:\Users\41764\Documents\Informatik\Lernatelier\C# Gruppenarbeit 2\Noteapp\obj\Debug\Noteapp.exe
+C:\Users\41764\Documents\Informatik\Lernatelier\C# Gruppenarbeit 2\Noteapp\obj\Debug\Noteapp.pdb
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp\bin\Debug\Noteapp.exe.config
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp\bin\Debug\Noteapp.exe
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp\bin\Debug\Noteapp.pdb
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp\obj\Debug\Noteapp.csprojAssemblyReference.cache
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp\obj\Debug\Noteapp.Hauptfenster.resources
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp\obj\Debug\Noteapp.Properties.Resources.resources
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp\obj\Debug\Noteapp.csproj.GenerateResource.cache
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp\obj\Debug\Noteapp.csproj.CoreCompileInputs.cache
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp\obj\Debug\Noteapp.exe
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp\obj\Debug\Noteapp.pdb
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp - Kopie\bin\Debug\Noteapp.exe.config
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp - Kopie\bin\Debug\Noteapp.exe
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp - Kopie\bin\Debug\Noteapp.pdb
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp - Kopie\obj\Debug\Noteapp.csprojAssemblyReference.cache
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp - Kopie\obj\Debug\Noteapp.Hauptfenster.resources
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp - Kopie\obj\Debug\Noteapp.Properties.Resources.resources
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp - Kopie\obj\Debug\Noteapp.csproj.GenerateResource.cache
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp - Kopie\obj\Debug\Noteapp.csproj.CoreCompileInputs.cache
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp - Kopie\obj\Debug\Noteapp.exe
+C:\Users\da_so\Documents\Lernatelier\Notizapp\Noteapp\Noteapp - Kopie\obj\Debug\Noteapp.pdb
+C:\Users\da_so\Downloads\Noteapp - Datenverwaltung\bin\Debug\Noteapp.exe.config
+C:\Users\da_so\Downloads\Noteapp - Datenverwaltung\bin\Debug\Noteapp.exe
+C:\Users\da_so\Downloads\Noteapp - Datenverwaltung\bin\Debug\Noteapp.pdb
+C:\Users\da_so\Downloads\Noteapp - Datenverwaltung\obj\Debug\Noteapp.csproj.AssemblyReference.cache
+C:\Users\da_so\Downloads\Noteapp - Datenverwaltung\obj\Debug\Noteapp.Hauptfenster.resources
+C:\Users\da_so\Downloads\Noteapp - Datenverwaltung\obj\Debug\Noteapp.Properties.Resources.resources
+C:\Users\da_so\Downloads\Noteapp - Datenverwaltung\obj\Debug\Noteapp.csproj.GenerateResource.cache
+C:\Users\da_so\Downloads\Noteapp - Datenverwaltung\obj\Debug\Noteapp.csproj.CoreCompileInputs.cache
+C:\Users\da_so\Downloads\Noteapp - Datenverwaltung\obj\Debug\Noteapp.exe
+C:\Users\da_so\Downloads\Noteapp - Datenverwaltung\obj\Debug\Noteapp.pdb
